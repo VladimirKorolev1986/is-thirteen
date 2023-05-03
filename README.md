@@ -11,7 +11,7 @@ An npm package to check if a number is equal to 13.
 ## Installation
 
 ```sh
-npm --save i is-thirteen
+npm --save i thirteen
 ```
 
 or
